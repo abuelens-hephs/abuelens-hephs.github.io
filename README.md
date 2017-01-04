@@ -20,10 +20,10 @@ Mon projet d'Informatisation des services documentaires
   <body>
   <h1>"Le RFID, vers une technologie hors du commun".Projet de fin d'année pour le cours "Informatisation des services documentaires". </h1>
   <p>Dans ce site web, vous trouverez tout ce que vous devez savoir sur le RFID.</p>
-  <p>Exemple de paragraphe.</p>
-  <p>Deuxième paragraphe</p>
+  <p>Le site suivra la structure suivante :</p>
   <h4>Technologie</h4>
-  <ul>
-    <li><a href=
+  <h4>Réponses à deux questions essentielles</h4>
+  <h4>Un cahier des charges sur mon projet de TFE</h4>
+  <h4>Le Kanban du projet d'ISD</h4>
   </body>
 </html>
